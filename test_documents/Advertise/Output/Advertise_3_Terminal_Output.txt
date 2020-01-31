@@ -5,4 +5,4 @@ Enter Item Name:
 Enter Item Description:
 Enter Item Price:
 Error: Enter valid starting price in dollars.
-Logout Successful, Goodbye!
+Goodbye!
